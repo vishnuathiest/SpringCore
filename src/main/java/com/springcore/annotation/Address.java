@@ -12,7 +12,7 @@ import lombok.ToString;
 public class Address {
 	@Value("Abhishek")
 	private String name;
-	@Value("26")
+	@Value("28")
 	private int age;
 	@Value("Banglore")
 	private String address;
